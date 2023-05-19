@@ -1,4 +1,3 @@
-// orders
 [
   {
     "_id": 1,
@@ -17,24 +16,5 @@
     "order_number": "ORD-003",
     "customer_id": 1,
     "total_amount": 200.0
-  }
-]
-
-// customers
-[
-  {
-    "_id": 1,
-    "name": "Alice Williams",
-    "email": "alice@example.com"
-  },
-  {
-    "_id": 2,
-    "name": "Bob Anderson",
-    "email": "bob@example.com"
-  },
-  {
-    "_id": 3,
-    "name": "Emily Davis",
-    "email": "emily@example.com"
   }
 ]
